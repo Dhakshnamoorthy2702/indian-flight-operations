@@ -1,7 +1,7 @@
 select
     cast(flight_id as int) as flight_id,
     cast(flight_date as date) as flight_date,
-    airline_code,
+    
     flight_number,
     origin_airport,
     destination_airport,
