@@ -1,0 +1,13 @@
+flight_id,flight_date,airline_code,flight_number,origin_airport,destination_airport,scheduled_departure,actual_departure,scheduled_arrival,actual_arrival,status,delay_reason
+1,2025-01-05,6E,6E204,DEL,BOM,08:00,08:20,10:10,10:35,completed,weather
+2,2025-01-05,AI,AI101,BOM,DEL,09:30,09:35,11:40,11:45,completed,
+3,2025-01-06,SG,SG415,BLR,MAA,14:00,15:10,15:05,16:20,completed,technical
+4,2025-01-06,UK,UK821,DEL,BLR,18:00,18:00,20:40,20:35,completed,
+5,2025-01-07,QP,QP132,HYD,CCU,07:15,07:50,09:25,10:00,completed,airport
+6,2025-01-07,6E,6E611,MAA,DEL,12:30,,,cancelled,weather
+7,2025-01-08,AI,AI542,CCU,DEL,16:45,17:30,19:10,20:05,completed,operational
+8,2025-01-08,SG,SG208,BOM,HYD,20:00,20:05,21:30,21:35,completed,
+9,2025-01-09,UK,UK955,BLR,DEL,06:30,,,cancelled,technical
+10,2025-01-09,QP,QP701,DEL,HYD,11:00,11:25,13:10,13:45,completed,weather
+11,2025-01-10,6E,6E778,HYD,BOM,15:20,15:20,17:00,16:55,completed,
+12,2025-01-10,AI,AI303,MAA,BLR,19:10,19:55,20:15,21:05,completed,passenger
